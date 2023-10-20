@@ -1,0 +1,24 @@
+3/2/2021 12:48:03 AM | Machine:AYITOSHIBA | Directory change: Test001.txt - Created
+3/2/2021 12:48:03 AM | Machine:AYITOSHIBA | Directory change: Test001.txt - Changed
+3/2/2021 12:48:04 AM | Machine:AYITOSHIBA | Directory change: Test001.txt - Changed
+3/2/2021 12:48:32 AM | Machine:AYITOSHIBA | Directory change: Test0002.txt - Renamed
+3/2/2021 12:48:41 AM | Machine:AYITOSHIBA | Directory change: Test002.txt - Renamed
+3/2/2021 12:53:01 AM | Machine:AYITOSHIBA | File: Test001.txt - Created
+3/2/2021 12:53:01 AM | Machine:AYITOSHIBA | File: Test001.txt - Changed
+3/2/2021 12:53:01 AM | Machine:AYITOSHIBA | File: Test001.txt - Changed
+3/2/2021 12:53:01 AM | Machine:AYITOSHIBA | File: Test002.txt - Created
+3/2/2021 12:53:02 AM | Machine:AYITOSHIBA | File: Test002.txt - Changed
+3/2/2021 12:53:02 AM | Machine:AYITOSHIBA | File: Test002.txt - Changed
+3/2/2021 12:53:32 AM | Machine:AYITOSHIBA | File: Test-1.txt - Renamed
+3/2/2021 12:53:44 AM | Machine:AYITOSHIBA | File: Test-1.txt - Deleted
+3/2/2021 12:54:03 AM | Machine:AYITOSHIBA | File: Test002.txt - Changed
+3/2/2021 12:54:03 AM | Machine:AYITOSHIBA | File: Test002.txt - Changed
+12/19/2021 3:48:41 PM | Machine:AYIGATEWAY | File: Testing.txt - Created
+9/29/2022 12:54:45 AM | Machine:AYIHP | File: Notes.txt - Created
+9/29/2022 12:55:04 AM | Machine:AYIHP | File: Notes.txt - Changed
+9/29/2022 12:55:08 AM | Machine:AYIHP | File: Notes.txt - Changed
+9/29/2022 12:56:40 AM | Machine:AYIHP | File: Notes.txt - Changed
+9/29/2022 12:56:53 AM | Machine:AYIHP | File: Notes.txt - Changed
+9/29/2022 12:57:25 AM | Machine:AYIHP | File: Notes - Copy.txt - Created
+9/29/2022 12:57:26 AM | Machine:AYIHP | File: Notes - Copy.txt - Changed
+9/29/2022 12:57:28 AM | Machine:AYIHP | File: Notes - Copy.txt - Changed
